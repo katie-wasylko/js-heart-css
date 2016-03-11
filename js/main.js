@@ -1,0 +1,11 @@
+var $header = $('header');
+var $h1 = $('h1');
+var $main = $('main');
+var $h2 = $('h2');
+var $pMain = $('p:first-child');
+var $mainList = $('main ul');
+var $img = $('img');
+var $firstList = $('ul:first-child');
+var $lastList = $('main li:last-child');
+var $dl = $('dl');
+var $dt = $('dt');
