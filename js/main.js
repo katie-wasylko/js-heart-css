@@ -18,7 +18,9 @@ $pMain.addClass('intro');
 $h2.addClass('slug-head');
 $mainList.addClass('slug-list');
 $img.addClass('slug-img');
-$firstList.addClass('slug-list');
-$lastList.addClass('masthead');
-$dl.addClass('masthead');
-$dt.addClass('masthead');
+$firstList.addClass('slug-list-first');
+$lastList.addClass('slug-list-last');
+$dl.addClass('classification');
+$dt.addClass('big-bael');
+
+$lastlist.show();
