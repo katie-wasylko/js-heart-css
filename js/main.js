@@ -9,3 +9,16 @@ var $firstList = $('ul:first-child');
 var $lastList = $('main li:last-child');
 var $dl = $('dl');
 var $dt = $('dt');
+
+$header.addClass('masthead');
+$h1.addClass('logo');
+$h1.removeClass('big-heading');
+$main.addClass('wrapper');
+$pMain.addClass('intro');
+$h2.addClass('slug-head');
+$mainList.addClass('slug-list');
+$img.addClass('slug-img');
+$firstList.addClass('slug-list');
+$lastList.addClass('masthead');
+$dl.addClass('masthead');
+$dt.addClass('masthead');
