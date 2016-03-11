@@ -1,3 +1,4 @@
+
 var $header = $('header');
 var $h1 = $('h1');
 var $main = $('main');
@@ -21,6 +22,6 @@ $img.addClass('slug-img');
 $firstList.addClass('slug-list-first');
 $lastList.addClass('slug-list-last');
 $dl.addClass('classification');
-$dt.addClass('big-bael');
+$dt.removeClass('big-label');
 
-$lastlist.show();
+$lastList.show();
